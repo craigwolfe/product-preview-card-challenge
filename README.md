@@ -73,7 +73,7 @@ I learned about the source srcset image tag that allows you to easily swap out i
 
 ### Useful resources
 
-- [Taking on a Frontend Mentor challenge | Responsive Product Preview Card Component](https://www.youtube.com/watch?v=B2WL6KkqhLQ)- Step by step video by Kevin Powell. Best tutorial I have seen in a while. -[Josh Comeau CSS reset](https://www.joshwcomeau.com/css/custom-css-reset/) -[Visually Hidden](https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html)
+- [Taking on a Frontend Mentor challenge | Responsive Product Preview Card Component](https://www.youtube.com/watch?v=B2WL6KkqhLQ)<br> -[Josh Comeau CSS reset](https://www.joshwcomeau.com/css/custom-css-reset/)<br> -[Visually Hidden](https://www.scottohara.me/blog/2017/04/14/inclusively-hidden.html)
 
 ## Author
 
